@@ -108,7 +108,7 @@ pip install pandas numpy matplotlib prophet scikit-learn
 - Add customer segmentation
 
 ## 👨‍💻 Author
-Tehul Shah
+Tehul Shah - 
 Data Science Enthusiast
 
 ## ⭐ Acknowledgment
