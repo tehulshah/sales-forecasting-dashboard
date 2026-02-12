@@ -29,26 +29,28 @@ The goal is to help businesses understand sales behavior and make data-driven de
 
 ## 📂 Project Structure
 
+```text
 sales-forecasting-project/
 │
 ├── data/
-│ └── raw_sales_data.csv
+│   └── raw_sales_data.csv
 │
 ├── notebooks/
-│ ├── 01_data_cleaning.ipynb
-│ ├── 02_EDA.ipynb
-│ └── 03_sales_forecasting.ipynb
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_EDA.ipynb
+│   └── 03_sales_forecasting.ipynb
 │
 ├── dashboard/
-│ └── sales_dashboard.pbix
+│   └── sales_dashboard.pbix
 │
 ├── models/
-│ └── forecasting_model.pkl
+│   └── forecasting_model.pkl
 │
 ├── outputs/
-│ └── forecast_results.csv
+│   └── forecast_results.csv
 │
 └── README.md
+```
 
 ---
 
