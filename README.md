@@ -92,6 +92,7 @@ This solution can help organizations:
 
 ## ▶️ How to Run the Project
 1. Install dependencies
+
 ```bash
 pip install pandas numpy matplotlib prophet scikit-learn
 ```
