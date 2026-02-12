@@ -28,6 +28,7 @@ The goal is to help businesses understand sales behavior and make data-driven de
 ---
 
 ## 📂 Project Structure
+
 sales-forecasting-project/
 │
 ├── data/
